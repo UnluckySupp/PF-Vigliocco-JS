@@ -1,0 +1,146 @@
+[
+    {
+      "id": 1,
+      "nombre": "Aire Acondicionado Enova",
+      "precio": 150000,
+      "imagen": "img/aire-enova.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Cafetera Atma",
+      "precio": 20000,
+      "imagen": "img/cafetera-atma.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Celular Motorola e22",
+      "precio": 150000,
+      "imagen": "img/cel-motorola-e22.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Heladera Electrolux 260L",
+      "precio": 80000,
+      "imagen": "img/heladera-electrolux-260.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Heladera Patrick 394L",
+      "precio": 150000,
+      "imagen": "img/heladera-patrick-394.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Lavarropa Drean",
+      "precio": 60000,
+      "imagen": "img/lavarropa-drean.png"
+    },
+    {
+      "id": 7,
+      "nombre": "Lavarropa LG",
+      "precio": 80000,
+      "imagen": "img/lavarropa-lg.png"
+    },
+    {
+      "id": 8,
+      "nombre": "Lavarropa Longview Frontal",
+      "precio": 70000,
+      "imagen": "img/lavarropa-longvie-frontal.png"
+    },
+    {
+      "id": 9,
+      "nombre": "Secarropa Koh-I-Noor",
+      "precio": 120000,
+      "imagen": "img/secarropa-kohinoor.png"
+    },
+    {
+      "id": 10,
+      "nombre": "Televisor LG 32",
+      "precio": 60000,
+      "imagen": "img/televisor-lg-32.png"
+    },
+    {
+      "id": 11,
+      "nombre": "Televisor Noblex 58",
+      "precio": 120000,
+      "imagen": "img/televisor-noblex-58.png"
+    },
+    {
+      "id": 12,
+      "nombre": "Televisor Samsung",
+      "precio": 150000,
+      "imagen": "img/televisor-samsung.png"
+    },
+    {
+      "id": 13,
+      "nombre": "Aire Acondicionado Whirpool",
+      "precio": 180000,
+      "imagen": "img/aire-whirpool.png"
+    },
+    {
+      "id": 14,
+      "nombre": "Cafetera Moulinex",
+      "precio": 50000,
+      "imagen": "img/cafetera-moulinex.png"
+    },
+    {
+      "id": 15,
+      "nombre": "Celular Samsung a14",
+      "precio": 110000,
+      "imagen": "img/cel-samsung-a14.png"
+    },
+    {
+      "id": 16,
+      "nombre": "Heladera Gafa",
+      "precio": 90000,
+      "imagen": "img/heladera-gafa.png"
+    },
+    {
+      "id": 17,
+      "nombre": "Lavarropa BGH",
+      "precio": 65000,
+      "imagen": "img/lavarropa-bgh.png"
+    },
+    {
+        "id": 18,
+        "nombre": "Lavarropa Electrolux",
+        "precio": 75000,
+        "imagen": "img/lavarropa-electrolux.png"
+    },
+    {
+        "id": 19,
+        "nombre": "Lavarropa Longvie",
+        "precio": 70000,
+        "imagen": "img/lavarropa-longvie.png"
+    },
+    {
+        "id": 20,
+        "nombre": "Plancha Electrolux",
+        "precio": 15000,
+        "imagen": "img/plancha-electrolux.png"
+    },
+    {
+        "id": 21,
+        "nombre": "Televisor Kodak 55",
+        "precio": 140000,
+        "imagen": "img/televisor-kodak-55.png"
+    },
+    {
+        "id": 22,
+        "nombre": "Televisor LG Ultra HD",
+        "precio": 220000,
+        "imagen": "img/televisor-lg-uhd.png"
+    },
+    {
+        "id": 23,
+        "nombre": "Televisor Philips HD",
+        "precio": 130000,
+        "imagen": "img/televisor-phillips-hd.png"
+    },
+    {
+        "id": 24,
+        "nombre": "Televisor Samsung 32",
+        "precio": 130000,
+        "imagen": "img/televisor-samsung-32.png"
+    }
+]
